@@ -10,5 +10,5 @@ function reverseString(str) {
     }
 }
 
-console.log(reverseString(""));
+console.log(reverseString("hola"));
 
