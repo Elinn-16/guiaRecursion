@@ -1,6 +1,6 @@
 function reverseString(str) {
     if (str === "") {
-        return ""; 
+        return true; 
     }
     if (str == 1) {
         return str
@@ -11,4 +11,4 @@ function reverseString(str) {
     
 }
 
-console.log(reverseString(""));
+console.log(reverseString("hola"));
